@@ -68,4 +68,4 @@ If you have any questions or concerns about this privacy policy, please contact 
 
 ---
 
-Copy this content to your GitHub repository's README file, and it will be formatted correctly for users to read directly on GitHub. Make sure to replace `[your email address]` with your actual contact information.
+
